@@ -12651,10 +12651,17 @@
         "repo": "gr0grig/obsidian-virt-folder"
     },
     {
-	   "id": "magic-move",
+	"id": "magic-move",
         "name": "Magic Move",
         "author": "imfenghuang",
         "description": "Animating code blocks with markdown and code syntax highlighting with beautiful themes.",
         "repo": "imfenghuang/obsidian-magic-move"
+    },
+    {
+	"id": "keepsidian",
+        "name": "KeepSidian",
+        "author": "lc0rp",
+        "description": "Sync Google Keep notes to Obsidian.",
+        "repo": "lc0rp/KeepSidian"
     }
 ]
